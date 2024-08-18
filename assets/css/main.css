@@ -1770,9 +1770,9 @@ body.is-preload #footer {
     /* Center the image */
     display: block;
     /* Center the image */
-    box-shadow: 0 4px 8px rgba(211, 123, 123, 0.571);
+    box-shadow: 0 4px 8px rgba(123, 206, 211, 0.571);
     /* Add a subtle shadow */
-    border: 3px solid #af9da0;
+    border: 3px solid #4d9295;
     /* Add a subtle border */
 }
 
