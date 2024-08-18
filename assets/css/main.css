@@ -1790,7 +1790,7 @@ body.is-preload #footer {
     font-size: 15px;
     font-weight: 100;
     color: #fff;
-    background-color: #c75a5a;
+    background-color: #5ac1c7;
     border: none;
     border-radius: 3px;
     text-decoration: none;
@@ -1975,7 +1975,7 @@ body.is-preload #footer {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 4px 8px rgba(155, 92, 92, 0.5);
+    box-shadow: 0 4px 8px rgba(92, 155, 149, 0.5);
     /* Optional: Adds a subtle shadow for better look */
     text-align: center;
     /* Centers the text */
@@ -1988,7 +1988,7 @@ body.is-preload #footer {
     /* Icon size */
     margin-bottom: 10px;
     /* Space between icon and text */
-    color: #333;
+    color: #333333;
     /* Icon color */
 }
 
