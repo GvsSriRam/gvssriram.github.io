@@ -361,7 +361,7 @@ blockquote {
 }
 
 code {
-    background: rgba(255, 255, 255, 0.075);
+    background: rgba(0, 128, 128, 0.075);
     border-radius: 4px;
     font-family: "Courier New", monospace;
     font-size: 0.9rem;
@@ -520,7 +520,7 @@ input[type="email"]:focus,
 input[type="tel"]:focus,
 select:focus,
 textarea:focus {
-    background: rgba(255, 255, 255, 0.075);
+    background: rgba(0, 128, 128, 0.075);
     border-color: #ffffff;
     box-shadow: 0 0 0 1px #ffffff;
 }
@@ -634,7 +634,7 @@ input[type="radio"]:checked+label:before {
 
 input[type="checkbox"]:focus+label:before,
 input[type="radio"]:focus+label:before {
-    background: rgba(255, 255, 255, 0.075);
+    background: rgba(0, 128, 128, 0.075);
     border-color: #ffffff;
     box-shadow: 0 0 0 1px #ffffff;
 }
@@ -1026,11 +1026,11 @@ ul.icons li a {
 }
 
 ul.icons li a:hover {
-    background-color: rgba(186, 73, 96, 0.383);
+    background-color: rgba(178, 216, 216, 0.383);
 }
 
 ul.icons li a:active {
-    background-color: rgba(186, 73, 96, 0.383);
+    background-color: rgba(178, 216, 216, 0.383);
 }
 
 /* Table */
@@ -1052,7 +1052,7 @@ table tbody tr {
 }
 
 table tbody tr:nth-child(2n+1) {
-    background-color: rgba(255, 255, 255, 0.075);
+    background-color: rgba(0, 128, 128, 0.769);
 }
 
 table td {
@@ -1119,7 +1119,7 @@ button,
     background-color: transparent;
     border-radius: 4px;
     border: 0;
-    box-shadow: inset 0 0 0 1px #db687f;
+    box-shadow: inset 0 0 0 1px #66b2b2;
     color: #ffffff !important;
     cursor: pointer;
     display: inline-block;
@@ -1141,7 +1141,7 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-    background-color: rgba(186, 73, 96, 0.383);
+    background-color: rgba(178, 216, 216, 0.383);
     font-weight: 600;
 }
 
@@ -1150,7 +1150,7 @@ input[type="reset"]:active,
 input[type="button"]:active,
 button:active,
 .button:active {
-    background-color: rgba(186, 73, 96, 0.383);
+    background-color: rgba(178, 216, 216, 0.383);
     font-weight: 600;
 }
 
@@ -1185,7 +1185,7 @@ input[type="reset"].primary,
 input[type="button"].primary,
 button.primary,
 .button.primary {
-    background-color: #db687f;
+    background-color: #66b2b2;
     color: #000000 !important;
     font-weight: 600;
 }
@@ -1489,11 +1489,11 @@ body.is-preload #bg:before {
 }
 
 #header nav ul li a:hover {
-    background-color: rgba(186, 73, 96, 0.383);
+    background-color: rgba(178, 216, 216, 0.383);
 }
 
 #header nav ul li a:active {
-    background-color: rgba(186, 73, 96, 0.383);
+    background-color: rgba(178, 216, 216, 0.383);
 }
 
 #header nav.use-middle:after {
@@ -1695,7 +1695,7 @@ body.is-preload #header .content .inner {
 }
 
 #main article .close:hover:before {
-    background-color: rgba(255, 255, 255, 0.075);
+    background-color: rgba(0, 128, 128, 0.075);
 }
 
 #main article .close:active:before {
@@ -1848,7 +1848,7 @@ body.is-preload #footer {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(186, 73, 96, 0.383);
+    background: rgba(178, 216, 216, 0.383);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1930,7 +1930,7 @@ body.is-preload #footer {
 }
 
 #dynamic-text {
-    color: #db687f;
+    color: #66b2b2;
     /* Text color */
     font-weight: bold;
     /* Bold text */
@@ -2003,7 +2003,7 @@ body.is-preload #footer {
 /* Hover Effects */
 
 .service:hover {
-    background-color: #db687f;
+    background-color: #66b2b2;
     /* Change background color on hover */
     color: #fff;
     /* Change text color on hover */
@@ -2056,7 +2056,7 @@ body.is-preload #footer {
 
 .single-progress-txt h3 {
     width: 10%;
-    color: #db687f;
+    color: #66b2b2;
     margin-left: 20px;
 }
 
@@ -2070,7 +2070,7 @@ body.is-preload #footer {
 }
 
 .progress-bar {
-    background: #db687f;
+    background: #66b2b2;
     height: 100%;
     width: 0;
     transition: width 1.5s ease-in-out;
